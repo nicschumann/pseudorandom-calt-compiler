@@ -7,3 +7,5 @@ In December 2020, I hacked this together based on a request from Cem Eskinazi. T
 This script was designed to output a feature that could be copied and pasted into Glyphs.app's feature editor (specifically for the calt feature). You can also use it from the command line, but you need to specify a complete list of the glyphs in your typeface for the script to work properly.
 
 The source code has plenty of comments and a description of which things you can change, so take a look at `compiler.py` for more detail.
+
+This is free software. Use or remix this code in your own projects however you like.
